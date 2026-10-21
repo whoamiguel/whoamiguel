@@ -1,16 +1,13 @@
-## Hi there 👋
+```
+$ whoami
+miguel
+$ cat status.txt
+chilling messing around 
+```
 
-<!--
-**whoamiguel/whoamiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### side quests
+soon
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+$ exit
+```
